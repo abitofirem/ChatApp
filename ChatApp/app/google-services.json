@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021131363639",
+    "project_id": "chat-app-backend-1c659",
+    "storage_bucket": "chat-app-backend-1c659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021131363639:android:43498d7a9fe85195e476b2",
+        "android_client_info": {
+          "package_name": "com.iremse.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz85HSzviWp3fZwzN4PvQ03-A1mCiI2c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
